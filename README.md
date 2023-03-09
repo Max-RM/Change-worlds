@@ -33,4 +33,4 @@ and then paste this path: ```C:\Users\(Username of PC)\AppData\Local\Packages\Mi
 ![IMG_20230309_140513](https://user-images.githubusercontent.com/81485476/223973240-571984e2-fb39-43cb-b930-b026b9831b38.jpg)
 
 
-![IMG_20230309_140513](https://user-images.githubusercontent.com/81485476/223973175-9bc64a54-8d69-4631-baad-fd7bf76c6014.jpg)
+
