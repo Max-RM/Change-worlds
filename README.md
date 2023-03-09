@@ -1,5 +1,5 @@
 
-# Изменение миров.
+# Change-worlds.
 Switch worlds from editor mode to Minecraft preview and and vice versa without export-import.
 
 # Intro.
@@ -62,4 +62,4 @@ Now clink this Button and close UME:
 
 now, the next time you open Editor Mode, this world should appear in the list of worlds.
 
-
+If you want your world from Editor Mode to be in the list of Minecraft Preview worlds, you must: follow the steps
