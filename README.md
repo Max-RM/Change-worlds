@@ -26,6 +26,7 @@ this window will open:
 the folder is empty because the path of the worlds of Minecraft preview differs from Minecraft retail, and UME always opens the folder: ```C:\Users\(Username of PC)\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds```
 so you just need to go to another folder. at the top there is a line with the path to the folder. Click on it with the cursor:
 
+![IMG_20230309_133521](https://user-images.githubusercontent.com/81485476/223966056-9504b81e-e36e-4fe0-97ce-fe31aa6d2bd6.jpg)
 
 
 
