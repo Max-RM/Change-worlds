@@ -28,5 +28,9 @@ so you just need to go to another folder. at the top there is a line with the pa
 
 ![IMG_20230309_133521](https://user-images.githubusercontent.com/81485476/223966056-9504b81e-e36e-4fe0-97ce-fe31aa6d2bd6.jpg)
 
+and then paste this path: ```C:\Users\(Username of PC)\AppData\Local\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds``` in this line, before paste, replace (Username of PC) in path with your PC username! then click ⍈:
+
+![IMG_20230309_140513](https://user-images.githubusercontent.com/81485476/223973240-571984e2-fb39-43cb-b930-b026b9831b38.jpg)
 
 
+![IMG_20230309_140513](https://user-images.githubusercontent.com/81485476/223973175-9bc64a54-8d69-4631-baad-fd7bf76c6014.jpg)
