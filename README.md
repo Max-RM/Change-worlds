@@ -66,4 +66,8 @@ If you want your world from Editor Mode to be in the list of Minecraft Preview w
 
 1. Follow the steps 1-9
 
-2. 
+2. In level.dat, find ```isEditorWorld: 1``` and delete it by pressing the - ```del``` button on the keyboard:
+
+
+
+3. 
