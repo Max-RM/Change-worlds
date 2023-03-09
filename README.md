@@ -83,4 +83,7 @@ Now this world from editor mode should appear in the list of worlds in Minecraft
 
 as you understand, this instruction must be followed every time you want to change Minecraft Preview > Editor Mode, Editor Mode > Minecraft Preview, but it will still be faster than export-import if you have a big world.
 
-# 
+# Outro.
+
+I hope this instruction will be useful to you;) 
+if you have any questions, write them to https://github.com/Max-RM/Change-worlds./issues
