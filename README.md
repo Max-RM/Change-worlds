@@ -13,7 +13,7 @@ and it will only take you a few seconds to edit this NBT tag, which is much more
 # Guide.
 # Minecraft Prewiev > Editor Mode.
 First download (UME) Universal Minecraft Editor from web.archive because Matt G blocked the download from his site: https://web.archive.org/web/20211024121354/https://www.universalminecrafteditor.com/software/UniversalMC_setup.exe?fdl=1
-you will need exactly UME because NBT studio and NBT Explorer for some reason believe that the level.dat file from new worlds is empty.
+
 
 1. Now assuming that you have already created a world in Minecraft Preview and want to send it to Editor mode. You need to open UME and press one of these buttons: ![IMG_20230309_131645](https://user-images.githubusercontent.com/81485476/223963037-8b9ca96b-cb25-4db2-b25b-f1bc97367029.jpg)
 
