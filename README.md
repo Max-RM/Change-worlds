@@ -32,5 +32,13 @@ and then paste this path: ```C:\Users\(Username of PC)\AppData\Local\Packages\Mi
 
 ![IMG_20230309_140513](https://user-images.githubusercontent.com/81485476/223973240-571984e2-fb39-43cb-b930-b026b9831b38.jpg)
 
+a folder with your worlds will open. Most likely they will have names from random characters, select the desired world by clicking on the desired folder 1 time, then click - select folder at the bottom right:
+
+![IMG_20230309_141117](https://user-images.githubusercontent.com/81485476/223974773-0bab0f58-3649-4b5f-9977-9bfbee33a426.jpg)
+
+in the window that opens, click - open:
+
+![IMG_20230309_141249](https://user-images.githubusercontent.com/81485476/223975154-ae8a64c1-7eb6-4ed6-b508-4dcfbff23dd2.jpg)
+
 
 
