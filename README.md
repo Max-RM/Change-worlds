@@ -41,4 +41,8 @@ in the window that opens, click - open:
 ![IMG_20230309_141249](https://user-images.githubusercontent.com/81485476/223975154-ae8a64c1-7eb6-4ed6-b508-4dcfbff23dd2.jpg)
 
 
+your world will open in UME, then click - View Files:
+
+![IMG_20230309_141421](https://user-images.githubusercontent.com/81485476/223975742-85651eee-8518-49ed-9c89-e1ca4bfd1207.jpg)
+
 
