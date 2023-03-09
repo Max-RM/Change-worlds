@@ -3,13 +3,15 @@
 Switch worlds from editor mode to Minecraft preview and and vice versa without export-import.
 
 # Intro.
+pay attention. first you have to turn off Minecraft preview and Editor mode (if they are enabled) and only then follow the instructions!
+
 According to Microsoft's instructions  https://learn.microsoft.com/en-us/minecraft/creator/documents/editoroverview#editor-file-operations---create-import-export, to switch the world from editor mode to Minecraft preview and vice versa, you must follow this ##### instruction. But I will show you a more correct way, which I came up with on 03/09/2023, the day after the release of Minecraft preview 1.19.80.02
 
 But why did I call this instruction from Microsoft - #######? it's simple, because imagine that you have created a 5 GB world in Minecraft preview or editor mode and you need to send it to Minecraft preview or editor mode. you will first have to export this world as an archive using game functions, then import it using game functions, and this process, given the size of your world, will take quite a bit of time. It is an absolutely stupid decision on the part of Mojang not to provide for this. in fact, only one NBT tag in the level.dat - (isEditorWorld: 1) file is responsible for the fact that the world will be displayed in the list of worlds editor mode or Minecraft preview its presence or absence will affect whether the world will be in the list of some of the games or not.
 and it will only take you a few seconds to edit this NBT tag, which is much more reasonable, so use my instruction, not nonsense from Microsoft!
 
 # Guide.
-
+# Minecraft Prewiev > Editor Mode.
 First download (UME) Universal Minecraft Editor from web.archive because Matt G blocked the download from his site: https://web.archive.org/web/20211024121354/https://www.universalminecrafteditor.com/software/UniversalMC_setup.exe?fdl=1
 you will need exactly UME because NBT studio and NBT Explorer for some reason believe that the level.dat file from new worlds is empty.
 
@@ -62,12 +64,23 @@ Now clink this Button and close UME:
 
 now, the next time you open Editor Mode, this world should appear in the list of worlds.
 
+# Editor Mode > Minecraft Preview
+
 If you want your world from Editor Mode to be in the list of Minecraft Preview worlds, you must: 
 
 1. Follow the steps 1-9
 
 2. In level.dat, find ```isEditorWorld: 1``` and delete it by pressing the - ```del``` button on the keyboard:
 
+![IMG_20230309_143412](https://user-images.githubusercontent.com/81485476/223982476-485a67fe-9042-490d-9c08-400a6945de2c.jpg)
 
 
-3. 
+3. clink this button and close UME:
+
+![IMG_20230309_142326](https://user-images.githubusercontent.com/81485476/223982601-f27ddad3-152b-4bec-a37d-5aa345c20914.jpg)
+
+Now this world from editor mode should appear in the list of worlds in Minecraft preview.
+
+as you understand, this instruction must be followed every time you want to change Minecraft Preview > Editor Mode, Editor Mode > Minecraft Preview, but it will still be faster than export-import if you have a big world.
+
+# 
