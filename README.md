@@ -28,7 +28,7 @@ so you just need to go to another folder. at the top there is a line with the pa
 
 ![IMG_20230309_133521](https://user-images.githubusercontent.com/81485476/223966056-9504b81e-e36e-4fe0-97ce-fe31aa6d2bd6.jpg)
 
-and then paste this path: ```C:\Users\(Username of PC)\AppData\Local\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds``` in this line, before paste, replace (Username of PC) in path with your PC username! then click ⍈:
+and then paste this path: ```C:\Users\(Username of PC)\AppData\Local\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds``` in this line, before paste, replace ```(Username of PC)``` in path with your PC username! then click ⍈:
 
 ![IMG_20230309_140513](https://user-images.githubusercontent.com/81485476/223973240-571984e2-fb39-43cb-b930-b026b9831b38.jpg)
 
@@ -45,4 +45,18 @@ your world will open in UME, then click - View Files:
 
 ![IMG_20230309_141421](https://user-images.githubusercontent.com/81485476/223975742-85651eee-8518-49ed-9c89-e1ca4bfd1207.jpg)
 
+in the window that opens, open the level.dat file:
+
+![IMG_20230309_141738](https://user-images.githubusercontent.com/81485476/223976355-291b9ee6-b864-48de-aede-381c674638d4.jpg)
+
+now copy this text: ```0a00010101000d6973456469746f72576f726c640100```
+
+click on this thing:
+
+![IMG_20230309_141855](https://user-images.githubusercontent.com/81485476/223976672-9c16f796-6e8b-4aa3-a5ff-2c9c9c1b5809.jpg)
+
+Then simultaneously press the (ctrl) and (v) buttons on the keyboard. This will add the needed NBT tag to level.dat
+Now clink this Button and close UME:
+
+![IMG_20230309_142326](https://user-images.githubusercontent.com/81485476/223977825-4b9a43be-6100-43fd-b3f7-11d295c64ba3.jpg)
 
