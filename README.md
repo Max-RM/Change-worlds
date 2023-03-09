@@ -19,3 +19,10 @@ then in the window that opens, click this button:
 
 ![IMG_20230309_131955](https://user-images.githubusercontent.com/81485476/223962249-19d15a12-77a1-49cf-8182-ec321ebbd9d4.jpg)
 
+this window will open:
+
+![IMG_20230309_132513_460](https://user-images.githubusercontent.com/81485476/223963524-d801ec53-57b2-4d5e-b109-692f38f03e59.jpg)
+
+the folder is empty because the path of the worlds of Minecraft preview differs from Minecraft retail, and UME always opens the folder: C:\Users\(Username of PC)\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds
+
+
