@@ -13,50 +13,53 @@ and it will only take you a few seconds to edit this NBT tag, which is much more
 First download (UME) Universal Minecraft Editor from web.archive because Matt G blocked the download from his site: https://web.archive.org/web/20211024121354/https://www.universalminecrafteditor.com/software/UniversalMC_setup.exe?fdl=1
 you will need exactly UME because NBT studio and NBT Explorer for some reason believe that the level.dat file from new worlds is empty.
 
-now assuming that you have already created a world in Minecraft Preview and want to send it to Editor mode. You need to open UME and press one of these buttons: ![IMG_20230309_131645](https://user-images.githubusercontent.com/81485476/223963037-8b9ca96b-cb25-4db2-b25b-f1bc97367029.jpg)
+1. Now assuming that you have already created a world in Minecraft Preview and want to send it to Editor mode. You need to open UME and press one of these buttons: ![IMG_20230309_131645](https://user-images.githubusercontent.com/81485476/223963037-8b9ca96b-cb25-4db2-b25b-f1bc97367029.jpg)
 
-then in the window that opens, click this button:
+2. Then in the window that opens, click this button:
 
 ![IMG_20230309_131955](https://user-images.githubusercontent.com/81485476/223962249-19d15a12-77a1-49cf-8182-ec321ebbd9d4.jpg)
 
-this window will open:
+3. This window will open:
 
 ![IMG_20230309_132513_460](https://user-images.githubusercontent.com/81485476/223963524-d801ec53-57b2-4d5e-b109-692f38f03e59.jpg)
 
-the folder is empty because the path of the worlds of Minecraft preview differs from Minecraft retail, and UME always opens the folder: ```C:\Users\(Username of PC)\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds```
+4. The folder is empty because the path of the worlds of Minecraft preview differs from Minecraft retail, and UME always opens the folder: ```C:\Users\(Username of PC)\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds```
 so you just need to go to another folder. at the top there is a line with the path to the folder. Click on it with the cursor:
 
 ![IMG_20230309_133521](https://user-images.githubusercontent.com/81485476/223966056-9504b81e-e36e-4fe0-97ce-fe31aa6d2bd6.jpg)
 
-and then paste this path: ```C:\Users\(Username of PC)\AppData\Local\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds``` in this line, before paste, replace ```(Username of PC)``` in path with your PC username! then click ⍈:
+5. And then paste this path: ```C:\Users\(Username of PC)\AppData\Local\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds``` in this line, before paste, replace ```(Username of PC)``` in path with your PC username! then click ⍈:
 
 ![IMG_20230309_140513](https://user-images.githubusercontent.com/81485476/223973240-571984e2-fb39-43cb-b930-b026b9831b38.jpg)
 
-a folder with your worlds will open. Most likely they will have names from random characters, select the desired world by clicking on the desired folder 1 time, then click - select folder at the bottom right:
+6. A folder with your worlds will open. Most likely they will have names from random characters, select the desired world by clicking on the desired folder 1 time, then click - select folder at the bottom right:
 
 ![IMG_20230309_141117](https://user-images.githubusercontent.com/81485476/223974773-0bab0f58-3649-4b5f-9977-9bfbee33a426.jpg)
 
-in the window that opens, click - open:
+7. In the window that opens, click - open:
 
 ![IMG_20230309_141249](https://user-images.githubusercontent.com/81485476/223975154-ae8a64c1-7eb6-4ed6-b508-4dcfbff23dd2.jpg)
 
 
-your world will open in UME, then click - View Files:
+8. Your world will open in UME, then click - View Files:
 
 ![IMG_20230309_141421](https://user-images.githubusercontent.com/81485476/223975742-85651eee-8518-49ed-9c89-e1ca4bfd1207.jpg)
 
-in the window that opens, open the level.dat file:
+9. In the window that opens, open the level.dat file:
 
 ![IMG_20230309_141738](https://user-images.githubusercontent.com/81485476/223976355-291b9ee6-b864-48de-aede-381c674638d4.jpg)
 
-now copy this text: ```0a00010101000d6973456469746f72576f726c640100```
+10. Now copy this text: ```0a00010101000d6973456469746f72576f726c640100```
 
-click on this thing:
+11. Click on this thing:
 
 ![IMG_20230309_141855](https://user-images.githubusercontent.com/81485476/223976672-9c16f796-6e8b-4aa3-a5ff-2c9c9c1b5809.jpg)
 
-Then simultaneously press the (ctrl) and (v) buttons on the keyboard. This will add the needed NBT tag to level.dat
+12. Then simultaneously press the (ctrl) and (v) buttons on the keyboard. This will add the needed NBT tag to level.dat
 Now clink this Button and close UME:
 
 ![IMG_20230309_142326](https://user-images.githubusercontent.com/81485476/223977825-4b9a43be-6100-43fd-b3f7-11d295c64ba3.jpg)
+
+now, the next time you open Editor Mode, this world should appear in the list of worlds.
+
 
